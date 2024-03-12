@@ -1,2 +1,2 @@
-## Practising github commands
+### Practising github commands
 
